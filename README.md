@@ -1,1 +1,1 @@
-# CRUDPythonPostgre
+# crudAppCLIPython
